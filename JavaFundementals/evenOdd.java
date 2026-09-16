@@ -9,6 +9,5 @@ public class evenOdd {
         }else{
             System.out.println("This is Odd. "+Number);
         }
-
     }
 }
