@@ -1,4 +1,3 @@
-// Java program to print table of a number 
 import java.util.*;
 class mutiplicationTable {
     public static void printTable(int n)  {         
