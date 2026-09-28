@@ -12,3 +12,6 @@ class mutiplicationTable {
         printTable(tableNumber);
     }
 }
+
+// Output - Enter the Number: 8 
+// Printing the 8 table ;
