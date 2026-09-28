@@ -6,3 +6,6 @@ class AddingTwoNumber{
         System.out.println("This is Sum of two numbers : " + finalValueSum);
     }
 }
+
+
+// Output - 45 + 67 = 112
