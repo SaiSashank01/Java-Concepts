@@ -6,7 +6,7 @@ public class uShapePattern {
                 if(i == rows-1 || j == 0 || j == rows-1 ){
                     System.out.print("* ");
                 }
-                else{
+                else {
                  System.out.print("  ");
                 }
             }
