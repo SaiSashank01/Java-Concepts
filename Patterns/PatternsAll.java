@@ -15,6 +15,7 @@
             //         System.out.print(j+1+ " ");
             //     }
 
+            
 // Squre kii iethey 
 // if(rows == 0 || rows == 5)
 
