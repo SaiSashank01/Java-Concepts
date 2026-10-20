@@ -11,6 +11,5 @@ public class evenOdd {
         }
     }
 }
-
 // Output - Enter the Value : 5
 //  This is Odd. 5
