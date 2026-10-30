@@ -21,7 +21,6 @@
 
 // X Sums if(i == j || i + j == rows - 1) we include thw Conditon of the cols also
 
-
 public class PatternsAll {
     public static void main(String[] args) {
 
