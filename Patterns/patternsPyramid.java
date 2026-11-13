@@ -34,3 +34,5 @@ class patternsPyramid {
             System.out.println();
         }
     }
+
+    
